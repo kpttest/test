@@ -15,7 +15,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', 'testos!@3t');
 
 /** MySQL hostname */
-define('DB_HOST', 'ec2-54-82-171-193.compute-1.amazonaws.com');
+define('DB_HOST', 'ubuntu@ec2-54-82-171-193.compute-1.amazonaws.com');
 
 /** Database Table prefix */
 define('DB_TABLE_PREFIX', 'oc_');
